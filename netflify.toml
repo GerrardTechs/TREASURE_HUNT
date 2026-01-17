@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "quiz_final_logika.html"
+status = 200
